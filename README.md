@@ -5,3 +5,5 @@
 Test text for new commit
 
 test wrong commit name
+
+**Самостоятельные изменения и коммит**
