@@ -4,4 +4,4 @@
 
 Test text for new commit
 
-test wron commit name
+test wrong commit name
